@@ -17,4 +17,29 @@ This project showcases an interactive Income Statement Dashboard built in Power 
 ## Data Model Overview
 ![image](https://github.com/user-attachments/assets/bcac0556-2d8d-4eea-8866-b1311691dd31)
 
+The data model is structured in a star schema for optimal performance and accurate reporting. It consists of:
+
+  📌 Journal (Fact Table) – Stores financial transactions, including account details, date, division, and amounts.
+
+  📌 COA (Chart of Accounts - Dimension Table) – Defines account categories, groups, and classifications.
+
+  📌 Calendar (Dimension Table) – Provides a date hierarchy to enable time-based filtering.
+
+  📌 Division (Dimension Table) – Allows financials to be analyzed by business divisions.
+
+#### Impact of the Data Model:
+✅ Ensures accurate financial calculations by structuring relationships properly.
+
+✅ Improves dashboard performance with an optimized star schema.
+
+✅ Facilitates drill-down analysis by enabling flexible filtering across dimensions.
+
+
+## 📊 Key Insights
+
+
+
+
+
+
 
