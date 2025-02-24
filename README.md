@@ -47,7 +47,8 @@ The data model is structured in a star schema for optimal performance and accura
 
 
 ## 📊 Key Insights
-![Insights](https://github.com/user-attachments/assets/2207a8d8-3335-4001-b39e-2ec37a0a2603)
+![Insights](https://github.com/user-attachments/assets/fea3130f-24d4-4151-b457-5d027a4b2792)
+
 
 ## How to Use the Dashboard
 
