@@ -1,3 +1,9 @@
+## 📌 Project Overview
+
+This project showcases an interactive Income Statement Dashboard built in Power BI, designed to compare financial performance across two years. It transforms raw financial data into actionable insights, enabling year-over-year comparisons, trend analysis, and tracking of financial performance.
+
+This project was copied from [Finex Skills Hub](https://www.youtube.com/@FinexSkillsHub) YouTube channel.
+
 ##  📚 Table of Contents  
 
 1. Project Overview
@@ -10,9 +16,6 @@
 7. Conclusion
 
 
-## 📌 Project Overview
-
-This project showcases an interactive Income Statement Dashboard built in Power BI, designed to compare financial performance across two years. It transforms raw financial data into actionable insights, allowing for year-over-year comparisons, trend analysis, and financial performance tracking.
 
 ## ⚙️ Features
 ✅ Dynamic Year and Division Filters – Compare financials across different time periods and business divisions.
